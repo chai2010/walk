@@ -7,7 +7,7 @@
 package declarative
 
 import (
-	"github.com/lxn/walk"
+	"github.com/chai2010/walk"
 )
 
 // AccState enum defines the state of the window/control

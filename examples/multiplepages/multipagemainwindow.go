@@ -5,8 +5,8 @@
 package main
 
 import (
-	"github.com/lxn/walk"
-	. "github.com/lxn/walk/declarative"
+	"github.com/chai2010/walk"
+	. "github.com/chai2010/walk/declarative"
 )
 
 type MultiPageMainWindowConfig struct {

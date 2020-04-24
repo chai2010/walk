@@ -7,7 +7,7 @@
 package declarative
 
 import (
-	"github.com/lxn/walk"
+	"github.com/chai2010/walk"
 )
 
 type ImageViewMode int
