@@ -9,7 +9,7 @@ package walk
 import (
 	"sort"
 
-	"github.com/lxn/win"
+	"github.com/chai2010/walk/win"
 )
 
 type splitterLayout struct {

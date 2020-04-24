@@ -11,7 +11,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/lxn/win"
+	"github.com/chai2010/walk/win"
 )
 
 const milimeterPerMeter float64 = 1000.0

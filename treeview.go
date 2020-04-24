@@ -10,7 +10,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/lxn/win"
+	"github.com/chai2010/walk/win"
 )
 
 type treeViewItemInfo struct {

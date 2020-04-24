@@ -9,7 +9,7 @@ package walk
 import (
 	"syscall"
 
-	"github.com/lxn/win"
+	"github.com/chai2010/walk/win"
 )
 
 func knownFolderPath(id win.CSIDL) (string, error) {

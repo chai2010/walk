@@ -12,7 +12,7 @@ import (
 
 	"github.com/lxn/walk"
 	. "github.com/lxn/walk/declarative"
-	"github.com/lxn/win"
+	"github.com/chai2010/walk/win"
 )
 
 func main() {

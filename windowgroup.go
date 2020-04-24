@@ -10,7 +10,7 @@ import (
 	"sync"
 	"unsafe"
 
-	"github.com/lxn/win"
+	"github.com/chai2010/walk/win"
 )
 
 // The global window group manager instance.

@@ -9,7 +9,7 @@ package walk
 import (
 	"unsafe"
 
-	"github.com/lxn/win"
+	"github.com/chai2010/walk/win"
 )
 
 const customWidgetWindowClass = `\o/ Walk_CustomWidget_Class \o/`

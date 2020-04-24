@@ -6,7 +6,7 @@
 
 package walk
 
-import "github.com/lxn/win"
+import "github.com/chai2010/walk/win"
 
 // AccState enum defines the state of the window/control
 type AccState int32

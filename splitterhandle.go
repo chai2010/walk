@@ -7,7 +7,7 @@
 package walk
 
 import (
-	"github.com/lxn/win"
+	"github.com/chai2010/walk/win"
 )
 
 const splitterHandleWindowClass = `\o/ Walk_SplitterHandle_Class \o/`

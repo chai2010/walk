@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/lxn/win"
+	"github.com/chai2010/walk/win"
 )
 
 type Settings interface {

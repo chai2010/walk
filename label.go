@@ -6,7 +6,7 @@
 
 package walk
 
-import "github.com/lxn/win"
+import "github.com/chai2010/walk/win"
 
 type EllipsisMode int
 
